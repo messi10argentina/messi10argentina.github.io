@@ -1,9 +1,10 @@
 p
 
 {
-    color:blue;
+    color:blue; 
     font-size: larger; 
     font-weight: 600; 
+    max-width: 500px;
 }
 
 body
