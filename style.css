@@ -1,7 +1,7 @@
 p
 
 {
-    color:blue; 
+    color:rgb(130, 38, 236); 
     font-size: larger; 
     font-weight: 600; 
     max-width: 500px;
@@ -9,5 +9,5 @@ p
 
 body
 {
-    background-color: aqua;
+    background-color: rgb(32, 185, 223);
 }
